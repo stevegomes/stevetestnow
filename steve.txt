@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-
 now this is some great news stevan
-hey this is steve
- some change again now new
 
-=======
-now this is some great news stevan
-hey this is steve
- some change again now
->>>>>>> 73fb2508cc49e957bcb3869d360784559a535d2b
-
-
-once more change by stevan ymail
 
